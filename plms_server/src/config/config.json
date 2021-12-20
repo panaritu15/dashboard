@@ -1,0 +1,9 @@
+{
+    "host": "164.52.210.11",
+    "port":"1433",
+    "user": "PLMS_Test",
+    "database": "Master_DB_PLMS",
+    "password": "plms@321",
+    "insecureAuth":"true"
+  }
+  
